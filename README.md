@@ -18,4 +18,4 @@ _hello_
   + First B
 2. Second
 
-[hse] (https://www.hse.ru/)
+[hse](https://www.hse.ru/)
